@@ -1,0 +1,2 @@
+# Hello World
+This is my first C program . As it's the convention to start with hello world, in this repo all programs are for rookies.This is a practice I'm having in the Holberton school of software engineering. 
